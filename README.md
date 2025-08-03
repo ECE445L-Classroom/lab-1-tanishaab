@@ -1,12 +1,5 @@
 # ECE445L-Lab1
 
-ECE445L Lab 1 Fall 2024.
-
-IMPORTANT (for those not using Github Classroom): To clone this repository,
-click the green "Use this template" button and create a PRIVATE repository. Do
-NOT clone this repository as you would normally clone a git repo (i.e. using
-'git clone ...') because you will not be able to make a private fork.
-
 ## HW
 
 The hw folder should contain your schematic and board files for your PCB or
